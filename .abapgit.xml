@@ -17,8 +17,8 @@
        <TPOOL> 
        <item> 
         <ID>R</ID> 
-        <ENTRY>HPABAPSC</ENTRY> 
-        <LENGTH>8</LENGTH> 
+        <ENTRY>abapGit</ENTRY> 
+        <LENGTH>7</LENGTH> 
        </item> 
       </TPOOL> 
      </asx:values> 
